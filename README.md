@@ -1,12 +1,6 @@
-#### THE WALLPAPERS I USE FOR MY RICES
+### THE WALLPAPERS I USE FOR MY RICES
 
 ### 🎏 These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers 
-
-
-### 3 parts all in all for this wallpaper bank
-- 1.) Normal wallpaper which can be selected by SUPER W. Which will be used by default by auto wallpaper changer.
-- 2.) Dynamic - Dark . Will be used when changing to dark theme mode using theme switcher.
-- 3.) Dynamic - Light . Will be used when changing to light theme mode using theme switcher. 
 
 
 ## Sources:
