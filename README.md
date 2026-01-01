@@ -3,226 +3,277 @@
 <table>
   <tr>
     <td align="center">
-      <a href="wall-1.jpg">
-        <img src="wall-1.jpg" width="300">
+      <a href="solarized-wall-11.jpg">
+        <img src="solarized-wall-11.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-10.jpg">
-        <img src="wall-10.jpg" width="300">
+      <a href="solarized-wall-12.jpg">
+        <img src="solarized-wall-12.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-12.jpg">
-        <img src="wall-12.jpg" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="wall-13.jpg">
-        <img src="wall-13.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-14.jpg">
-        <img src="wall-14.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-15.jpg">
-        <img src="wall-15.jpg" width="300">
+      <a href="solarized-wall-13.jpg">
+        <img src="solarized-wall-13.jpg" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="wall-16.jpg">
-        <img src="wall-16.jpg" width="300">
+      <a href="solarized-wall-14.jpg">
+        <img src="solarized-wall-14.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-17.jpg">
-        <img src="wall-17.jpg" width="300">
+      <a href="solarized-wall-16.jpg">
+        <img src="solarized-wall-16.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-18.jpg">
-        <img src="wall-18.jpg" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="wall-2.jpg">
-        <img src="wall-2.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-20.jpg">
-        <img src="wall-20.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-21.jpg">
-        <img src="wall-21.jpg" width="300">
+      <a href="solarized-wall-17.jpg">
+        <img src="solarized-wall-17.jpg" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="wall-23.jpg">
-        <img src="wall-23.jpg" width="300">
+      <a href="solarized-wall-18.jpg">
+        <img src="solarized-wall-18.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-24.jpg">
-        <img src="wall-24.jpg" width="300">
+      <a href="solarized-wall-19.jpg">
+        <img src="solarized-wall-19.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-25.jpg">
-        <img src="wall-25.jpg" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="wall-26.jpg">
-        <img src="wall-26.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-27.jpg">
-        <img src="wall-27.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-29.jpg">
-        <img src="wall-29.jpg" width="300">
+      <a href="solarized-wall-20.jpg">
+        <img src="solarized-wall-20.jpg" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="wall-32.jpg">
-        <img src="wall-32.jpg" width="300">
+      <a href="solarized-wall-21.jpg">
+        <img src="solarized-wall-21.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-33.jpg">
-        <img src="wall-33.jpg" width="300">
+      <a href="solarized-wall-22.jpg">
+        <img src="solarized-wall-22.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-35.jpg">
-        <img src="wall-35.jpg" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="wall-39.jpg">
-        <img src="wall-39.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-5.jpg">
-        <img src="wall-5.jpg" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-7.jpg">
-        <img src="wall-7.jpg" width="300">
+      <a href="solarized-wall-24.jpg">
+        <img src="solarized-wall-24.jpg" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="wall-8.jpg">
-        <img src="wall-8.jpg" width="300">
+      <a href="solarized-wall-25.jpg">
+        <img src="solarized-wall-25.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-9.jpg">
-        <img src="wall-9.jpg" width="300">
+      <a href="solarized-wall-27.jpg">
+        <img src="solarized-wall-27.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-11.png">
-        <img src="wall-11.png" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="wall-19.png">
-        <img src="wall-19.png" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-22.png">
-        <img src="wall-22.png" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-28.png">
-        <img src="wall-28.png" width="300">
+      <a href="solarized-wall-29.jpg">
+        <img src="solarized-wall-29.jpg" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="wall-3.png">
-        <img src="wall-3.png" width="300">
+      <a href="solarized-wall-31.jpg">
+        <img src="solarized-wall-31.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-30.png">
-        <img src="wall-30.png" width="300">
+      <a href="solarized-wall-32.jpg">
+        <img src="solarized-wall-32.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-31.png">
-        <img src="wall-31.png" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="wall-34.png">
-        <img src="wall-34.png" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-36.png">
-        <img src="wall-36.png" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <a href="wall-37.png">
-        <img src="wall-37.png" width="300">
+      <a href="solarized-wall-33.jpg">
+        <img src="solarized-wall-33.jpg" width="300">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="wall-38.png">
-        <img src="wall-38.png" width="300">
+      <a href="solarized-wall-34.jpg">
+        <img src="solarized-wall-34.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-4.png">
-        <img src="wall-4.png" width="300">
+      <a href="solarized-wall-36.jpg">
+        <img src="solarized-wall-36.jpg" width="300">
       </a>
     </td>
     <td align="center">
-      <a href="wall-6.png">
-        <img src="wall-6.png" width="300">
+      <a href="solarized-wall-37.jpg">
+        <img src="solarized-wall-37.jpg" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-39.jpg">
+        <img src="solarized-wall-39.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-4.jpg">
+        <img src="solarized-wall-4.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-41.jpg">
+        <img src="solarized-wall-41.jpg" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-42.jpg">
+        <img src="solarized-wall-42.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-43.jpg">
+        <img src="solarized-wall-43.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-44.jpg">
+        <img src="solarized-wall-44.jpg" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-45.jpg">
+        <img src="solarized-wall-45.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-47.jpg">
+        <img src="solarized-wall-47.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-5.jpg">
+        <img src="solarized-wall-5.jpg" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-6.jpg">
+        <img src="solarized-wall-6.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-8.jpg">
+        <img src="solarized-wall-8.jpg" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-1.png">
+        <img src="solarized-wall-1.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-10.png">
+        <img src="solarized-wall-10.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-15.png">
+        <img src="solarized-wall-15.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-2.png">
+        <img src="solarized-wall-2.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-23.png">
+        <img src="solarized-wall-23.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-26.png">
+        <img src="solarized-wall-26.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-28.png">
+        <img src="solarized-wall-28.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-3.png">
+        <img src="solarized-wall-3.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-30.png">
+        <img src="solarized-wall-30.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-35.png">
+        <img src="solarized-wall-35.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-38.png">
+        <img src="solarized-wall-38.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-40.png">
+        <img src="solarized-wall-40.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-46.png">
+        <img src="solarized-wall-46.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="solarized-wall-48.png">
+        <img src="solarized-wall-48.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-7.png">
+        <img src="solarized-wall-7.png" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="solarized-wall-9.png">
+        <img src="solarized-wall-9.png" width="300">
       </a>
     </td>
   </tr>
 </table>
 
-# NOTE
-  -These are not my creation by any means
+# ⚠️NOTE
+❌These are not my creation by any means

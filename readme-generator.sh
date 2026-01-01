@@ -5,7 +5,7 @@ OUTPUT="README.md"
 # Remove the previous file
 rm -rf "$OUTPUT"
 
-IMAGES=(wall-*.jpg wall-*.png)
+IMAGES=(solarized-wall-*.jpg solarized-wall-*.png)
 COLS=3
 WIDTH=300
 
@@ -45,7 +45,8 @@ if ((count % COLS != 0)); then
 fi
 
 echo "</table>" >>"$OUTPUT"
-echo "# NOTE" >>"$OUTPUT"
-echo "- These are not my creation by any means" >>"$OUTPUT"
+echo "" >>"$OUTPUT"
+echo "# ⚠️NOTE" >>"$OUTPUT"
+echo "❌These are not my creation by any means" >>"$OUTPUT"
 
 echo "README.md gallery generated ✔"
